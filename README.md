@@ -1,5 +1,5 @@
 # Improving Spotify recommendations with Python and Machine Learning
->> Applying machine learning techniques to predict Spotify's recommendation affinity to the user
+> Applying machine learning techniques to predict Spotify's recommendation affinity to the user
 
 This project uses machine learning algorithms to create a playlist with brand new recommendations which I'm more likely to like.
 
